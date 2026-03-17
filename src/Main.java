@@ -16,5 +16,6 @@ public class Main {
         miClinica.realizarRondaMedica();
 
         miClinica.realizarRondaMedica();
+        System.out.println("AJDDHADHADHADAHDASHDSADHASDHASDHASD");
     }
 }
